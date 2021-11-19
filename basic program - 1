@@ -1,0 +1,16 @@
+#we create 4 variables, which act as a "container"
+a="你好啊"#is a variable named a which we put a string "which is a content that has no numeric value" in this case we put the name "你 好吗" inside
+b="你好啊"#is a variable named b which we put a string "which is a content that has no numeric value" in this case we put the name "你 好吗" inside
+c="你好啊"#is a variable named c which we put a string "which is a content that has no numeric value" in this case we put the name "你 好吗" inside
+d="你好啊"#is a variable named d which we put a string "which is a content that has no numeric value" in this case we put the name "你 好吗" inside
+print(a)#print the content that is in a
+print(b[0])#print the first continent found in b
+print(c[1])#print the second continent found in c
+print(d[-1])#print the last content found in d
+#number start with 0, so the first is 0, the second is 1 ...
+#when to run the program, we will show in the display
+#你好啊
+#你
+#好
+#啊
+
