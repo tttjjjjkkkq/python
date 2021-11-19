@@ -1,0 +1,16 @@
+#abbiamo creato 4 varianti il cui li possiamo definire "contenitori"
+a="你好啊"#abbiamo creato una variante di nome a e ci abbiamo messo dentro di esso "你好啊" creando cosi una variante di tipo string
+b="你好啊"#abbiamo creato una variante di nome b e ci abbiamo messo dentro di esso "你好啊" creando cosi una variante di tipo string
+c="你好啊"#abbiamo creato una variante di nome c e ci abbiamo messo dentro di esso "你好啊" creando cosi una variante di tipo string
+d="你好啊"#abbiamo creato una variante di nome d e ci abbiamo messo dentro di esso "你好啊" creando cosi una variante di tipo string
+print(a)#stampiamo il contenuto che c'è dentro di a
+print(b[0])#stampiamo il primo contenuto che c'è dentro di b
+print(c[1])#stampiamo il secondo contenuto che c'è dentro di c
+print(d[-1])#stampiamo il penultimo contenuto che c'è dentro di a
+#i numeri iniziano con 0, quindi 0 è uguale al primo, 1 è uguale al secondo...
+#quando eseguiamo il programa, ci visualizza
+#你好啊
+#你
+#好
+#啊
+
