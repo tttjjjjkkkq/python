@@ -6,3 +6,5 @@ print (frase[0:14]+luogo+frase[15:21]+eta+frase[22:27])#see basic program - 1 to
 #es. 0:7, section for the first content to the seventh content (sono troppo bello ---> sono tr)
 #if before or after :, it hasn't number, it will section all content before the  number2(:10) or all content after the number1(10:)
 print (frase[:14]+luogo+frase[15:21]+eta+frase[22:])#so it's  the same if we write this
+#we use + to join two variables(or another thing) together
+print (frase[0:13]+" "+luogo+frase[15:20]+" "+eta+frase[22:27])#so we can join for example a text (using "text") with a variable using +
