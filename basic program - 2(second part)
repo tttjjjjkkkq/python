@@ -1,0 +1,7 @@
+luogo="Parigi"#see basic program - 1 to understand how its working
+eta="34"#see basic program - 1 to understand how its working
+#we can also write eta=34, because 34 has a numerical value
+frase="ciao, abito a {} e ho {} anni".format(luogo,eta)
+#using the format, we can give the first content to the first {}, the second content to the second {} ...
+#so in the first {} (... abito a {} e ...) we give the content that is in luogo and becomes (... abito a Parigi e ...)
+print (frase)#see basic program - 1 to understand how its working
