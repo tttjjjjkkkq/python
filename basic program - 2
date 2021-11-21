@@ -1,0 +1,8 @@
+frase="ciao, abito a * e ho * anni"#see basic program - 1 to understand how its working
+luogo="Parigi"#see basic program - 1 to understand how its working
+eta="34"#see basic program - 1 to understand how its working
+print (frase[0:14]+luogo+frase[15:21]+eta+frase[22:27])#see basic program - 1 to understand how print working
+#the meaning of: is the section of the content from number 1 to number 2 (number 1:number 2)
+#es. 0:7, section for the first content to the seventh content (sono troppo bello ---> sono tr)
+#if before or after :, it hasn't number, it will section all content before the  number2(:10) or all content after the number1(10:)
+print (frase[:14]+luogo+frase[15:21]+eta+frase[22:])#so it's  the same if we write this
